@@ -1,4 +1,4 @@
-module github.com/pion/stun
+module github.com/mudutv/stun
 
 go 1.12
 

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pion/stun/internal/hmac"
+	"github.com/mudutv/stun/internal/hmac"
 )
 
 // separator for credentials.
